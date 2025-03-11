@@ -41,7 +41,7 @@ function calculateTax() {
         taxFor5.textContent = "₱19,860.82";
         taxFor6.textContent = "1,500.00";
         equals.textContent = "21,360.82";
-        amnt.textContent = "21,360.82";
+        amnt.textContent = "19,860.82";
         businessTax.textContent = "19,860.82";
         regulatoryFees.textContent = "1,500.00";
         assessment.textContent = "21,360.82";
@@ -62,7 +62,7 @@ function calculateTax() {
         taxFor5.textContent = "₱25,110.82";
         taxFor6.textContent = "1,500.00";
         equals.textContent = "26,610.82";
-        amnt.textContent = "26,610.82";
+        amnt.textContent = "25,110.82";
         businessTax.textContent = "25,110.82";
         regulatoryFees.textContent = "1,500.00";
         assessment.textContent = "26,610.82";
@@ -83,7 +83,7 @@ function calculateTax() {
         taxFor5.textContent = "₱30,360.82";
         taxFor6.textContent = "1,500.00";
         equals.textContent = "31,860.82";
-        amnt.textContent = "31,860.82";
+        amnt.textContent = "30,360.82";
         businessTax.textContent = "30,360.82";
         regulatoryFees.textContent = "1,500.00";
         assessment.textContent = "31,860.82";
@@ -104,7 +104,7 @@ function calculateTax() {
         taxFor5.textContent = "₱35,610.82";
         taxFor6.textContent = "2,500.00";
         equals.textContent = "38,110.82";
-        amnt.textContent = "38,110.82";
+        amnt.textContent = "35,610.82";
         businessTax.textContent = "35,610.82";
         regulatoryFees.textContent = "2,500.00";
         assessment.textContent = "38,110.82";
@@ -125,7 +125,7 @@ function calculateTax() {
         taxFor5.textContent = "₱40,860.82";
         taxFor6.textContent = "2,500.00";
         equals.textContent = "43,360.82";
-        amnt.textContent = "43,360.82";
+        amnt.textContent = "40,860.82";
         businessTax.textContent = "40,860.82";
         regulatoryFees.textContent = "2,500.00";
         assessment.textContent = "43,360.82";
@@ -146,7 +146,7 @@ function calculateTax() {
         taxFor5.textContent = "₱46,110.82";
         taxFor6.textContent = "2,500.00";
         equals.textContent = "48,610.82";
-        amnt.textContent = "48,610.82";
+        amnt.textContent = "46,110.82";
         businessTax.textContent = "46,110.82";
         regulatoryFees.textContent = "2,500.00";
         assessment.textContent = "48,610.82";
@@ -167,7 +167,7 @@ function calculateTax() {
         taxFor5.textContent = "₱51,360.82";
         taxFor6.textContent = "2,500.00";
         equals.textContent = "53,860.82";
-        amnt.textContent = "53,860.82";
+        amnt.textContent = "51,360.82";
         businessTax.textContent = "51,360.82";
         regulatoryFees.textContent = "2,500.00";
         assessment.textContent = "53,860.82";
@@ -188,7 +188,7 @@ function calculateTax() {
         taxFor5.textContent = "₱56,610.82";
         taxFor6.textContent = "2,500.00";
         equals.textContent = "59,110.82";
-        amnt.textContent = "59,110.82";
+        amnt.textContent = "56,610.82";
         businessTax.textContent = "56,610.82";
         regulatoryFees.textContent = "2,500.00";
         assessment.textContent = "59,110.82";
@@ -209,7 +209,7 @@ function calculateTax() {
         taxFor5.textContent = "₱61,860.82";
         taxFor6.textContent = "3,000.00";
         equals.textContent = "64,860.82";
-        amnt.textContent = "64,860.82";
+        amnt.textContent = "61,860.82";
         businessTax.textContent = "61,860.82";
         regulatoryFees.textContent = "3,000.00";
         assessment.textContent = "64,860.82";
@@ -230,7 +230,7 @@ function calculateTax() {
         taxFor5.textContent = "₱67,110.82";
         taxFor6.textContent = "3,000.00";
         equals.textContent = "70,110.82";
-        amnt.textContent = "70,110.82";
+        amnt.textContent = "67,110.82";
         businessTax.textContent = "67,110.82";
         regulatoryFees.textContent = "3,000.00";
         assessment.textContent = "70,110.82";
@@ -251,7 +251,7 @@ function calculateTax() {
         taxFor5.textContent = "₱77,610.82";
         taxFor6.textContent = "3,000.00";
         equals.textContent = "80,610.82";
-        amnt.textContent = "80,610.82";
+        amnt.textContent = "77,610.82";
         businessTax.textContent = "77,610.82";
         regulatoryFees.textContent = "3,000.00";
         assessment.textContent = "80,610.82";
@@ -272,7 +272,7 @@ function calculateTax() {
         taxFor5.textContent = "₱82,860.82";
         taxFor6.textContent = "3,000.00";
         equals.textContent = "85,860.82";
-        amnt.textContent = "85,860.82";
+        amnt.textContent = "82,860.82";
         businessTax.textContent = "82,860.82";
         regulatoryFees.textContent = "3,000.00";
         assessment.textContent = "85,860.82";
